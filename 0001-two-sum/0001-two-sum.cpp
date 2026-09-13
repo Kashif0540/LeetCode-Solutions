@@ -1,3 +1,5 @@
+// optimized solution using hash mapping
+
 class Solution {
 public:
     vector<int> twoSum(vector<int>& arr, int target) {
