@@ -2,7 +2,7 @@ class Solution {
 public:
     vector<int> twoSum(vector<int>& arr, int target) {
 
-        //HashMap stores each number and its index.
+        // HashMap stores each number and its index.
         // This allows us to quickly check if a required number exists.
         unordered_map<int, int> m;
 
